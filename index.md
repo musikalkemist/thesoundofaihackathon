@@ -7,7 +7,7 @@ The goal of the hackathon is to build cool audio / music tech, make friends, lea
 The hackathon will be held online from Friday 8th to Sunday 10th of July 2022.
 
 ## How do I sign up?
-You a Meetup page to register will be provided soon. The **registration deadline is Thursday 17th at 11:00pm CEST**.
+A Meetup page to register will be provided soon. The **registration deadline is Thursday 17th at 11:00pm CEST**.
 
 ## Themes
 The hackathon main theme is audio / music tech, with a particular focus on "intelligent" systems. A few example themes:
@@ -72,11 +72,11 @@ TBA
 
 ## FAQ
 
-### Should I have a team to participate?
+#### Should I have a team to participate?
 No, you'll be able to find a team during the event. However, you're free to come with an already-formed team. 
 
-### Who should participate?
+#### Who should participate?
 Hackers, programmers, technologitsts, AI audio / music people are obviously the main culprits. However, people with non-technical skills are also invited to participate. Well-rounded hacker teams with members from different backgrounds are the ones who usually deliver best during hackathons. 
 
-### Is there a participation fee?
+#### Is there a participation fee?
 No, the hackathon is FREE.
