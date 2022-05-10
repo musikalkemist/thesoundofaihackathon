@@ -64,7 +64,7 @@ All projects will be judged on 7 criteria by the jury. All criteria are equally 
 ## Organisers
 The Hackhathon is organised by: 
 - Valerio Velardo (host of The Sound of AI)
-- ... 
+- [Fernando Garcia](https://github.com/fergarciadlc)
 
 ## Jury
 TBA
