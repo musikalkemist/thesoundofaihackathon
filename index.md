@@ -1,7 +1,7 @@
 # 1st The Sound of AI Hackathon
 I'm thrilled to announce the 1st Hackathon of _The Sound of AI Community_, to celebrate 25K subscribers on [The Sound of AI YouTube channel](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ),  It'right time we had our first hackathon!
 
-The goal of the hackathon is to build cool technology, make friends, learn new studd, and have fun. 
+The goal of the hackathon is to build cool technology, make friends, learn new stuff, and have fun. 
 
 ## When & where
 The hackathon will be held online from Friday 8th to Sunday 10th of July 2022.
