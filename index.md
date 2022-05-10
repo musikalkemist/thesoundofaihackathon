@@ -27,7 +27,7 @@ The hackathon main theme is audio / music tech, with a particular focus on "inte
 - Friday 18th: 5.30pm-7.30pm - Team building
 - Friday 18th: 7.30pm - Start hacking!
 - Saturday 19th: 9.00pm - Every Team Lead in each team should register his/her team with all the team members. 
-- Saturday 19th: 3.00-4.00pm - Keynote presentation by TBA
+- Saturday 19th: 5.00-6.00pm - Keynote presentation by TBA
 - Sunday 20th 4.30pm - Project submission 
 - Sunday 20th 5.30-6.30pm Projects presentation
 - Sunday 20th 7.30-8.00pm Awards ceremony
@@ -67,7 +67,7 @@ The Hackhathon is organised by:
 - ...
 - ... 
 
-## Prize jury
+## Jury
 TBA
 
 ## FAQ
