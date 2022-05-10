@@ -38,8 +38,8 @@ By Saturday 19th at 9.00pm, all teams should submit information about the team n
 ## Communication channels
 Our main communication platform will be The Sound of AI Slack. If you're not signed up to the community, you can do it [here](https://valeriovelardo.com/the-sound-of-ai-community/). We'll be using two channels on Slack: 
 
-- #hack-organisation - Channel used for the organisers to provide general info to participants  
-- #hack-participants - Channel used by participants to communicate among themselves (e.g., propose ideas, build teams)
+- _#hack-organisation_ - Channel used for the organisers to provide general info to participants  
+- _#hack-participants_ - Channel used by participants to communicate among themselves (e.g., propose ideas, build teams)
 - Direct messages can be used to start conversations among participants / team members
 
 Community sessions (e.g., open / award ceremonies) will happen in Google Meet. Organisers will provide Google Meet links during the event.
@@ -64,7 +64,6 @@ All projects will be judged on 7 criteria by the jury. All criteria are equally 
 ## Organisers
 The Hackhathon is organised by: 
 - Valerio Velardo (host of The Sound of AI)
-- ...
 - ... 
 
 ## Jury
