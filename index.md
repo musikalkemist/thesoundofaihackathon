@@ -1,16 +1,19 @@
-# 1st The Sound of AI Hackathon
-I'm thrilled to announce the 1st Hackathon of _The Sound of AI Community_, to celebrate 25K subscribers on [The Sound of AI YouTube channel](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ),  It'right time we had our first hackathon!
+# 1st The Sound of AI Hackathon (8-10 July 2022)
+We're thrilled to announce the 1st hackathon of _The Sound of AI Community_, to celebrate 25K subscribers on [The Sound of AI YouTube channel](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ),  
 
-The goal of the hackathon is to build cool technology, make friends, learn new stuff, and have fun. 
+The goal of the hackathon is to build cool audio / music tech, make friends, learn new stuff, and have a great time together. 
 
 ## When & where
 The hackathon will be held online from Friday 8th to Sunday 10th of July 2022.
 
+## How do I sign up?
+You a Meetup page to register will be provided soon. The **registration deadline is Thursday 17th at 11:00pm CEST**.
+
 ## Themes
-The hackathon is focused on audio / music tech, with a particular focus on "intelligent" systems. A few example themes:
+The hackathon main theme is audio / music tech, with a particular focus on "intelligent" systems. A few example themes:
 
 - AI music
-- Generative Music
+- Generative music systems
 - Music Information Retrieval
 - Intelligent instruments
 - AI audio
@@ -30,25 +33,16 @@ The hackathon is focused on audio / music tech, with a particular focus on "inte
 - Sunday 20th 7.30-8.00pm Awards ceremony
 
 ## Submit team information
-By Saturday 19th at 9.00pm, all teams should submit information about the team name, team members, and the a tagline of what they are building. Information should be submitted in a Google Spreadheet shared by the organiser during the event. The organisers will provide more info during the hackathon.
+By Saturday 19th at 9.00pm, all teams should submit information about the team name, team members, and what they're working on. Information should be submitted in a Google Spreadheet. The organisers will provide more info during the hackathon.
 
 ## Communication channels
-Our main real-time communication platform will be [The Sound of AI Slack](https://valeriovelardo.com/the-sound-of-ai-community/). If you're not signed up to the community, you can do so at this page. In particular, we'll be using two channels: 
+Our main communication platform will be The Sound of AI Slack. If you're not signed up to the community, you can do it [here](https://valeriovelardo.com/the-sound-of-ai-community/). We'll be using two channels on Slack: 
 
-- #hack-organisation - channel used for the organisers to provide information to all the members  
-- #hack-participants - channel used by the participants to communicate among themselves (e.g., propose hack ideas, team build)
-- Direct messages can be used to have conversations among team members
+- #hack-organisation - Channel used for the organisers to provide general info to participants  
+- #hack-participants - Channel used by participants to communicate among themselves (e.g., propose ideas, build teams)
+- Direct messages can be used to start conversations among participants / team members
 
 Community sessions (e.g., open / award ceremonies) will happen in Google Meet. Organisers will provide Google Meet links during the event.
- 
-## How do I sign up?
-You can register for the event at this Meetup page. The **registration deadline is Thursday 17th at 11:00pm**.
-
-## Should I have a team to participate?
-No, you'll be able to find a team during the event. However, you're free to come with an already-formed team. 
-
-## Who should participate?
-Hackers, programmers, technologitsts, AI audio / music guys are obviously the main culprits. However, people with non technical skills can also participate. Well-rounded hacker teams with members from different backgrounds are the ones who usually deliver best during hackathons.   
 
 ## Sponsors and APIs
 TBA
@@ -75,3 +69,14 @@ The Hackhathon is organised by:
 
 ## Prize jury
 TBA
+
+## FAQ
+
+### Should I have a team to participate?
+No, you'll be able to find a team during the event. However, you're free to come with an already-formed team. 
+
+### Who should participate?
+Hackers, programmers, technologitsts, AI audio / music people are obviously the main culprits. However, people with non-technical skills are also invited to participate. Well-rounded hacker teams with members from different backgrounds are the ones who usually deliver best during hackathons. 
+
+### Is there a participation fee?
+No, the hackathon is FREE.
