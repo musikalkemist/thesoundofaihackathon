@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+# 1st The Sound of AI Hackathon
+I'm thrilled to announce the 1st Hackathon of _The Sound of AI Community_, to celebrate 25K subscribers on [The Sound of AI YouTube channel](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ),  It'right time we had our first hackathon!
 
-You can use the [editor on GitHub](https://github.com/musikalkemist/thesoundofaihackathon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The goal of the hackathon is to build cool technology, make friends, learn new studd, and have fun. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## When & where
+The hackathon will be held online from Friday 8th to Sunday 10th of July 2022.
 
-### Markdown
+## Themes
+The hackathon is focused on audio / music tech, with a particular focus on "intelligent" systems. A few example themes:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- AI music
+- Generative Music
+- Music Information Retrieval
+- Intelligent instruments
+- AI audio
+- Speech processing
+- Audio processing
+- Voice interfaces
+- ...
 
-```markdown
-Syntax highlighted code block
+## Schedule (Timezone: CEST)
+- Friday 18th 5.00-5.30pm: - Opening ceremony
+- Friday 18th: 5.30pm-7.30pm - Team building
+- Friday 18th: 7.30pm - Start hacking!
+- Saturday 19th: 9.00pm - Every Team Lead in each team should register his/her team with all the team members. 
+- Saturday 19th: 3.00-4.00pm - Keynote presentation by TBA
+- Sunday 20th 4.30pm - Project submission 
+- Sunday 20th 5.30-6.30pm Projects presentation
+- Sunday 20th 7.30-8.00pm Awards ceremony
 
-# Header 1
-## Header 2
-### Header 3
+## Submit team information
+By Saturday 19th at 9.00pm, all teams should submit information about the team name, team members, and the a tagline of what they are building. Information should be submitted in a Google Spreadheet shared by the organiser during the event. The organisers will provide more info during the hackathon.
 
-- Bulleted
-- List
+## Communication channels
+Our main real-time communication platform will be [The Sound of AI Slack](https://valeriovelardo.com/the-sound-of-ai-community/). If you're not signed up to the community, you can do so at this page. In particular, we'll be using two channels: 
 
-1. Numbered
-2. List
+- #hack-organisation - channel used for the organisers to provide information to all the members  
+- #hack-participants - channel used by the participants to communicate among themselves (e.g., propose hack ideas, team build)
+- Direct messages can be used to have conversations among team members
 
-**Bold** and _Italic_ and `Code` text
+Community sessions (e.g., open / award ceremonies) will happen in Google Meet. Organisers will provide Google Meet links during the event.
+ 
+## How do I sign up?
+You can register for the event at this Meetup page. The **registration deadline is Thursday 17th at 11:00pm**.
 
-[Link](url) and ![Image](src)
-```
+## Should I have a team to participate?
+No, you'll be able to find a team during the event. However, you're free to come with an already-formed team. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Who should participate?
+Hackers, programmers, technologitsts, AI audio / music guys are obviously the main culprits. However, people with non technical skills can also participate. Well-rounded hacker teams with members from different backgrounds are the ones who usually deliver best during hackathons.   
 
-### Jekyll Themes
+## Sponsors and APIs
+TBA
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/musikalkemist/thesoundofaihackathon/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Prizes
+TBA
 
-### Support or Contact
+## Jury criteria
+All projects will be judged on 7 criteria by the jury. All criteria are equally important. Each criteriium will get a score between 1-10. Below is a list of the 7 criteria:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- **Novelty** - How innovative is the proposed solution?
+- **Use of AI** - How effective / appropriate is the use of AI in the application?
+- **Presentation** - Is the project easy to understand? Is it easy to understand how the application works?
+- **Relevance** - How relevant is the project in relation to the themes of the hackathon? 
+- **Scalability** - How scalable is the project? Can the solution be brought to the market?
+- **Marketability** - Does the solution have the potential to be successfull on the market?
+- **Team** - Does the team have the right talent to market the solution? 
+
+## Organisers
+The Hackhathon is organised by: 
+- Valerio Velardo (host of The Sound of AI)
+- ...
+- ... 
+
+## Prize jury
+TBA
