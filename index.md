@@ -7,7 +7,7 @@ The goal of the hackathon is to build cool audio / music tech, make friends, lea
 The hackathon will be held online from Friday 8th to Sunday 10th of July 2022.
 
 ## How do I sign up?
-A Meetup page to register will be provided soon. The **registration deadline is Thursday 17th at 11:00pm CEST**.
+A Meetup page to register will be provided soon. The **registration deadline is Thursday 17th of July 2022 at 11:00pm CEST**.
 
 ## Themes
 The hackathon main theme is audio / music tech, with a particular focus on "intelligent" systems. A few example themes:
@@ -23,14 +23,14 @@ The hackathon main theme is audio / music tech, with a particular focus on "inte
 - ...
 
 ## Schedule (Timezone: CEST)
-- Friday 18th 5.00-5.30pm: - Opening ceremony
-- Friday 18th: 5.30pm-7.30pm - Team building
-- Friday 18th: 7.30pm - Start hacking!
-- Saturday 19th: 9.00pm - Every Team Lead in each team should register his/her team with all the team members. 
-- Saturday 19th: 5.00-6.00pm - Keynote presentation by TBA
-- Sunday 20th 4.30pm - Project submission 
-- Sunday 20th 5.30-6.30pm Projects presentation
-- Sunday 20th 7.30-8.00pm Awards ceremony
+- _Friday 18th 5.00-5.30pm_ - Opening ceremony
+- _Friday 18th 5.30pm-7.30pm_ - Team building
+- _Friday 18th 7.30pm_ - Start hacking!
+- _Saturday 19th 9.00pm_ - Every Team Lead in each team should register his/her team with all the team members. 
+- _Saturday 19th 5.00-6.00pm_ - Keynote presentation by [CJ Carr](https://dadabots.com/) (dadabots)
+- _Sunday 20th 4.30pm_ - Project submission 
+- _Sunday 20th 5.30-6.30pm_ - Projects presentation
+- _Sunday 20th 7.30-8.00pm_ - Awards ceremony
 
 ## Submit team information
 By Saturday 19th at 9.00pm, all teams should submit information about the team name, team members, and what they're working on. Information should be submitted in a Google Spreadheet. The organisers will provide more info during the hackathon.
@@ -67,7 +67,8 @@ The Hackhathon is organised by:
 - [Fernando Garcia](https://github.com/fergarciadlc)
 
 ## Jury
-TBA
+- [Anna Jordanous](https://www.kent.ac.uk/computing/people/3051/jordanous-anna) - Senior Lecturer in Computer Science at The University of Kent
+- ...
 
 ## FAQ
 
