@@ -27,13 +27,21 @@ The hackathon main theme is audio / music tech, with a particular focus on "inte
 - _Friday 18th 5.30pm-7.30pm_ - Team building
 - _Friday 18th 7.30pm_ - Start hacking!
 - _Saturday 19th 9.00pm_ - Every Team Lead in each team should register his/her team with all the team members. 
-- _Saturday 19th 5.00-6.00pm_ - Keynote presentation by [CJ Carr](https://dadabots.com/) (dadabots)
+- _Saturday 19th 5.00-6.30pm_ - 2 keynote presentations  
 - _Sunday 20th 4.30pm_ - Project submission 
 - _Sunday 20th 5.30-6.30pm_ - Projects presentation
 - _Sunday 20th 7.30-8.00pm_ - Awards ceremony
 
-## Submit team information
-By Saturday 19th at 9.00pm, all teams should submit information about the team name, team members, and what they're working on. Information should be submitted in a Google Spreadheet. The organisers will provide more info during the hackathon.
+## Keynote speakers
+During the hackathone, there will be presentations by two keynote speakers:
+- [CJ Carr](https://dadabots.com/) - Founder of dadabots
+- [Keunwoo Choi](https://keunwoochoi.github.io/) - AI Scientist/Director @ Gaudio Lab
+
+## Sponsors and APIs
+TBA
+
+## Prizes
+TBA
 
 ## Communication channels
 Our main communication platform will be The Sound of AI Slack. If you're not signed up to the community, you can do it [here](https://valeriovelardo.com/the-sound-of-ai-community/). We'll be using two channels on Slack: 
@@ -43,12 +51,6 @@ Our main communication platform will be The Sound of AI Slack. If you're not sig
 - Direct messages can be used to start conversations among participants / team members
 
 Community sessions (e.g., open / award ceremonies) will happen in Google Meet. Organisers will provide Google Meet links during the event.
-
-## Sponsors and APIs
-TBA
-
-## Prizes
-TBA
 
 ## Jury criteria
 All projects will be judged on 7 criteria by the jury. All criteria are equally important. Each criteriium will get a score between 1-10. Below is a list of the 7 criteria:
@@ -61,14 +63,17 @@ All projects will be judged on 7 criteria by the jury. All criteria are equally 
 - **Marketability** - Does the solution have the potential to be successfull on the market?
 - **Team** - Does the team have the right talent to market the solution? 
 
+## Jury
+- [Anna Jordanous](https://www.kent.ac.uk/computing/people/3051/jordanous-anna) - Senior Lecturer in Computer Science at The University of Kent
+- ...
+
 ## Organisers
 The Hackhathon is organised by: 
 - [Valerio Velardo](https://valeriovelardo.com/) (host of The Sound of AI)
 - [Fernando Garcia](https://github.com/fergarciadlc)
 
-## Jury
-- [Anna Jordanous](https://www.kent.ac.uk/computing/people/3051/jordanous-anna) - Senior Lecturer in Computer Science at The University of Kent
-- ...
+## Submit team information
+By Saturday 19th at 9.00pm, all teams should submit information about the team name, team members, and what they're working on. Information should be submitted in a Google Spreadheet. The organisers will provide more info during the hackathon.
 
 ## FAQ
 
