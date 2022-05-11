@@ -65,7 +65,7 @@ All projects will be judged on 7 criteria by the jury. All criteria are equally 
 
 ## Jury
 - [Anna Jordanous](https://www.kent.ac.uk/computing/people/3051/jordanous-anna) - Senior Lecturer in Computer Science at The University of Kent
-- ...
+- [Tristan Behrens](https://ai-guru.de/) - AI Expert + AI Music Composer
 
 ## Organisers
 The Hackhathon is organised by: 
