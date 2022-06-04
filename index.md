@@ -7,7 +7,7 @@ The goal of the hackathon is to build cool audio / music tech, make friends, lea
 The hackathon will be held online from Friday 8th to Sunday 10th of July 2022. People can participate from all over the world.
 
 ## Registration
-A Meetup page to register will be provided soon. The **registration deadline is Thursday 7th of July 2022 at 11:59pm CEST**.
+An Eventbrite page to register will be provided soon. The **registration deadline is Friday 8th of July 2022 at 3:00pm CEST**.
 
 ## Themes
 The hackathon main theme is audio / music tech, with a particular focus on "intelligent" systems. A few example themes:
@@ -74,7 +74,7 @@ Community sessions (e.g., open / awards ceremonies) will be held on Google Meet.
 
 
 ## Jury
-The projects will be judged bt an expert jury. The jury members are:
+Projects will be evaluated bt an expert jury. The jury members are:
 - [Tristan Behrens](https://ai-guru.de/) - AI Expert + AI Music Composer
 - [Anna Jordanous](https://www.kent.ac.uk/computing/people/3051/jordanous-anna) - Senior Lecturer in Computer Science at The University of Kent
 - [Stella Tavella](https://shoegazerstella.github.io/) - Senior AI Engineer at Musixmatch
