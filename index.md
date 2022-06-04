@@ -1,10 +1,10 @@
 # 1st The Sound of AI Hackathon (8-10 July 2022)
-We're thrilled to announce the 1st hackathon of _The Sound of AI Community_ to celebrate 25K subscribers on [The Sound of AI YouTube channel](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ),  
+We're thrilled to announce the 1st hackathon of _The Sound of AI Community_ to celebrate 25K subscribers on [The Sound of AI YouTube channel](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ).  
 
 The goal of the hackathon is to build cool audio / music tech, make friends, learn new stuff, and have a great time together. 
 
 ## When & where
-The hackathon will be held online from Friday 8th to Sunday 10th of July 2022. People can participate from all over the world .
+The hackathon will be held online from Friday 8th to Sunday 10th of July 2022. People can participate from all over the world.
 
 ## Registration
 A Meetup page to register will be provided soon. The **registration deadline is Thursday 7th of July 2022 at 11:59pm CEST**.
@@ -27,7 +27,7 @@ The hackathon main theme is audio / music tech, with a particular focus on "inte
 - _Friday 8th 5.00pm-7.30pm_ - Team building
 - _Friday 8th 7.30pm_ - Start hacking!
 - _Saturday 9th 5.00-6.30pm_ - Keynote presentations   by CJ Carr, and Keunwoo Choi
-- _Saturday 9th 9.00pm_ - Every Team Lead in each team should register his/her team with all the team members 
+- _Saturday 9th 9.00pm_ - Team Leads should register their team (i.e., team name, members, entry topic) 
 - _Sunday 20th 5.30pm_ - Stop hacking / project submission 
 - _Sunday 20th 6.00-7.00pm_ - Projects presentations
 - _Sunday 20th 8.00-8.30pm_ - Awards ceremony
@@ -55,22 +55,22 @@ A big thank-you goes to our sponsors, which have provided prizes for the hackath
 
 
 ## APIs
-Our sponsors will give free access to their API services to all the teams during the hackathon. Make the most out of them in your hack!
+During the hackathon, some of the sponsors will give free access to their services. Make the most out of it in your hack!
 
 - [Cyanite API](https://cyanite.ai/#services) - Music tagging, music recommendation, music similarity, music emotion recognition. 
-- [ACR Cloud API](https://www.acrcloud.com/) - Recognise music (fingerprinting), braodcast monitoring for music, detect live & timeshift TV channels, and more. [Tutorials](https://docs.acrcloud.com/tutorials) to get started.  
+- [ACR Cloud API](https://www.acrcloud.com/) - Recognise music (fingerprinting), braodcast monitoring for music, detect live & timeshift TV channels, and more. Check these [tutorials](https://docs.acrcloud.com/tutorials) to get started.  
 
 
 ## Communication channels
-Our main communication platform will be The Sound of AI Slack. If you're not signed up to the community, you can do it [here](https://valeriovelardo.com/the-sound-of-ai-community/). We'll be using two channels on Slack: 
+Our main communication platform will be The Sound of AI Slack. [You can sign up to The Sound of AI Slack community here](https://valeriovelardo.com/the-sound-of-ai-community/). We'll be using two channels on Slack: 
 
 - _#hack-organisation_ - Channel used for the organisers to provide general info to participants  
 - _#hack-participants_ - Channel used by participants to communicate among themselves (e.g., propose ideas, build teams)
 - Slack direct messages can be used to start conversations among participants / team members
 
-Participants are encouraged to use videoconferencing tools of their choice to chat "in person" among themselves.
+Participants are encouraged to use the video-conferencing tools they prefer to organise among themselves.
 
-Community sessions (e.g., open / award ceremonies) will be held on Google Meet. Organisers will provide Google Meet links during the event on Slack in the _#hack-organisation_ channel.
+Community sessions (e.g., open / awards ceremonies) will be held on Google Meet. Organisers will provide Google Meet links during the event on Slack in the _#hack-organisation_ channel.
 
 
 ## Jury
@@ -78,6 +78,7 @@ The projects will be judged bt an expert jury. The jury members are:
 - [Tristan Behrens](https://ai-guru.de/) - AI Expert + AI Music Composer
 - [Anna Jordanous](https://www.kent.ac.uk/computing/people/3051/jordanous-anna) - Senior Lecturer in Computer Science at The University of Kent
 - [Stella Tavella](https://shoegazerstella.github.io/) - Senior AI Engineer at Musixmatch
+
 
 ## Jury criteria
 All projects will be judged on 7 criteria by the jury. All criteria are equally important. Each criteriium will get a score between 1-10. Below is a list of the 7 criteria:
