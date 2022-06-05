@@ -42,7 +42,7 @@ During the hackathone, there will be presentations by two keynote speakers:
 
 - The winner team will receive 3x NVIDIA RTX 3070 GPUs to share among its members. This prize is sponsored by Utopia Music.
 - The team with the most innovative solution will receive the equivalent of ca. EUR 5000 of premium access to Cyanite's API services (music emotion recognition and music genre recognition). This prize is sponsored by Cyanite.
-- The team with the most markeatable solution will receive premium access to ACR Cloud API services (music recognition). This prize is sponsored by ACR Cloud.  
+- The team with the most marketable solution will receive premium access to ACR Cloud API services (music recognition). This prize is sponsored by ACR Cloud.  
 - The team with the best presentation will win a selection of books and courses about AI / programming / audio signal processing. This prize is sponsored by Cyanite. 
 
 
@@ -81,7 +81,7 @@ Projects will be evaluated bt an expert jury. The jury members are:
 
 
 ## Jury criteria
-All projects will be judged on 7 criteria by the jury. All criteria are equally important. Each criteriium will get a score between 1-10. Below is a list of the 7 criteria:
+All projects will be judged on 7 criteria by the jury. All criteria are equally important. Each criterium will get a score between 1-10. Below is a list of the 7 criteria:
 
 - **Novelty** - How innovative is the proposed solution?
 - **Interesting use of AI** - How effective / appropriate is the use of AI in the application?
