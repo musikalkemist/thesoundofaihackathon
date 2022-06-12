@@ -7,7 +7,7 @@ The goal of the hackathon is to build cool audio / music tech, make friends, lea
 The hackathon will be held online from Friday 8th to Sunday 10th of July 2022. People can participate from all over the world.
 
 ## Registration
-An Eventbrite page to register will be provided soon. The **registration deadline is Friday 8th of July 2022 at 3:00pm CEST**.
+Register for free at this Eventbrite [page](https://www.eventbrite.com/e/1st-the-sound-of-ai-hackathon-tickets-357361195957). The **registration deadline is Friday 8th of July 2022 at 3:00pm CEST**.
 
 ## Themes
 The hackathon main theme is audio / music tech, with a particular focus on "intelligent" systems. A few example themes:
@@ -44,6 +44,8 @@ During the hackathone, there will be presentations by two keynote speakers:
 - The team with the most innovative solution will receive the equivalent of ca. EUR 5000 of premium access to Cyanite's API services (music emotion recognition and music genre recognition). This prize is sponsored by Cyanite.
 - The team with the most marketable solution will receive premium access to ACR Cloud API services (music recognition). This prize is sponsored by ACR Cloud.  
 - The team with the best presentation will win a selection of books and courses about AI / programming / audio signal processing. This prize is sponsored by Cyanite. 
+- The team which will make the most interesting use of AI in its solution will win a $500 gift card on the Adruino website. This prize is sponsored by Boomy.
+- All participants will get free Boomy Pro accounts. This means unlimited music creation with AI + unlimited releases.
 
 
 ## Sponsors 
@@ -52,6 +54,7 @@ A big thank-you goes to our sponsors, which have provided prizes for the hackath
 - [Utopia Music](https://utopiamusic.com/) - Fair play for every play
 - [Cyanite](https://cyanite.ai/) - Music search and tagging engine
 - [ACR Cloud](https://www.acrcloud.com/) - Automatic content recognition for doers  
+- [Boomy](https://boomy.com/) - Make instant music with AI
 
 
 ## APIs
