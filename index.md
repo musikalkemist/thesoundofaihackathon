@@ -28,9 +28,9 @@ The hackathon main theme is audio / music tech, with a particular focus on "inte
 - _Friday 8th 7.30pm_ - Start hacking!
 - _Saturday 9th 5.00-6.30pm_ - Keynote presentations   by CJ Carr, and Keunwoo Choi
 - _Saturday 9th 9.00pm_ - Team Leads should register their team (i.e., team name, members, entry topic) 
-- _Sunday 20th 5.30pm_ - Stop hacking / project submission 
-- _Sunday 20th 6.00-7.00pm_ - Projects presentations
-- _Sunday 20th 8.00-8.30pm_ - Awards ceremony
+- _Sunday 10th 5.30pm_ - Stop hacking / project submission 
+- _Sunday 10th 6.00-7.00pm_ - Projects presentations
+- _Sunday 10th 8.00-8.30pm_ - Awards ceremony
 
 ## Keynote speakers
 During the hackathone, there will be presentations by two keynote speakers:
