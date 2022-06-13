@@ -7,7 +7,7 @@ The goal of the hackathon is to build cool audio / music tech, make friends, lea
 The hackathon will be held online from Friday 8th to Sunday 10th of July 2022. People can participate from all over the world.
 
 ## Registration
-Register for free at this Eventbrite [page](https://www.eventbrite.com/e/1st-the-sound-of-ai-hackathon-tickets-365806857157). The **registration deadline is Friday 8th of July 2022 at 3:00pm CEST**.
+[Register for free at this Eventbrite page](https://www.eventbrite.com/e/1st-the-sound-of-ai-hackathon-tickets-365806857157). The **registration deadline is Friday 8th of July 2022 at 3:00pm CEST**.
 
 ## Themes
 The hackathon main theme is audio / music tech, with a particular focus on "intelligent" systems. A few example themes:
