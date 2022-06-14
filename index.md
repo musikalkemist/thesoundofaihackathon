@@ -119,4 +119,4 @@ No, the hackathon is FREE.
 
 
 ## Contact
-If you have any questions regarding the event, don't hesitate to send a message at valerio@thesoundofai.com
+If you have any questions regarding the event, don't hesitate to send a message at [valerio@thesoundofai.com](mailto:valerio@thesoundofai.com)
