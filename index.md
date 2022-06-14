@@ -116,3 +116,7 @@ Hackers, programmers, technologitsts, AI audio / music engineers, researchers, p
 
 #### Is there a participation fee?
 No, the hackathon is FREE.
+
+
+## Contact
+If you have any questions regarding the event, don't hesitate to send a message at valerio@thesoundofai.com
