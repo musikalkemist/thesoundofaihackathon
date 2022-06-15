@@ -44,7 +44,7 @@ During the hackathone, there will be presentations by two keynote speakers:
 - The team with the most innovative solution will receive the equivalent of ca. EUR 5000 of premium access to Cyanite's API services (music emotion recognition and music genre recognition). This prize is sponsored by Cyanite.
 - The team with the most marketable solution will receive premium access to ACR Cloud API services (music recognition). This prize is sponsored by ACR Cloud.  
 - The team with the best presentation will win a selection of books and courses about AI / programming / audio signal processing. This prize is sponsored by Cyanite. 
-- The team which will make the most interesting use of AI in its solution will win a $500 gift card on the Adruino website. This prize is sponsored by Boomy.
+- The team which will make the most interesting use of AI in its solution will win a $500 gift card on the Arduino website. This prize is sponsored by Boomy.
 - All participants will get free Boomy Pro accounts. This means unlimited music creation with AI + unlimited releases.
 
 
