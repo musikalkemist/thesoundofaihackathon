@@ -26,16 +26,16 @@ The hackathon main theme is audio / music tech, with a particular focus on "inte
 - _Friday 8th 4.00-4.45pm_ - Opening ceremony
 - _Friday 8th 5.00pm-7.30pm_ - Team building
 - _Friday 8th 7.30pm_ - Start hacking!
-- _Saturday 9th 5.00-6.30pm_ - Keynote presentations   by CJ Carr, and Keunwoo Choi
+- _Saturday 9th 5.00-6.30pm_ - Keynote presentations by CJ Carr, and Keunwoo Choi
 - _Saturday 9th 9.00pm_ - Team Leads should register their team (i.e., team name, members, entry topic) 
 - _Sunday 10th 5.30pm_ - Stop hacking / project submission 
-- _Sunday 10th 6.00-7.00pm_ - Projects presentations
-- _Sunday 10th 8.00-8.30pm_ - Awards ceremony
+- _Sunday 10th 6.00-7.30pm_ - Projects presentations
+- _Sunday 10th 8.30-9.00pm_ - Awards ceremony
 
 ## Keynote speakers
 During the hackathone, there will be presentations by two keynote speakers:
-- [CJ Carr](https://dadabots.com/) - Founder of dadabots
-- [Keunwoo Choi](https://keunwoochoi.github.io/) - AI Scientist/Director @ Gaudio Lab
+- [CJ Carr](https://dadabots.com/) - Founder of dadabots. CJ will present "Neural Synthesis & Generative Music"
+- [Keunwoo Choi](https://keunwoochoi.github.io/) - AI Scientist/Director @ Gaudio Lab. Keunwoo's talk is titled "AI for Music Analysis"
 
 ## Prizes
 **We'll give away EUR 10K+ worth of prizes to the winners**. There are different prizes for different categories:
@@ -105,17 +105,24 @@ The Hackhathon is organised by:
 ## Submit team information
 During the hackathon, all teams are asked to submit information about the team name, team members, and what they're working on. The deadling for submission is Saturday 9th of July at 9.00pm CEST. The information should be submitted in a Google Spreadheet. The organisers will provide more info during the hackathon.
 
+## Code of conduct
+The Sound of AI is a community based on respect, inclusivity, and kindness. Participants are asked to follow [The Sound of AI Netiquette]([url](https://valeriovelardo.com/community-netiquette/)). Participants who violate The Sound of AI Netiquette will be banned from the event. 
 
 ## FAQs
 
 #### Should I have a team to participate?
-No, you'll be able to find a team during the Team Building session at the beginning of the event. However, you're free to come with an already-formed team. 
+You're free to come with an already-formed team. However, it is possible to participate without a team. 
+
+We set out a process to help you find a team before the start of the hackathon. The step-by-step process is outlined in the [Eventbrite Online Event Page]([url](https://www.eventbrite.com/x/365806857157/)) - you can access this page only if you've registered for the hackathon. We'll also have a Team Building session at the beginning of the event for those who couldn't join a team before the start of the event. However, we highly encourage you to find a team before the hackathon starts using the workflow we set out to optimise your time during the event.  
 
 #### Who should participate?
 Hackers, programmers, technologitsts, AI audio / music engineers, researchers, product managers are obviously the main culprits. However, people with non-technical skills are also invited to participate. Well-rounded hacker teams with members from different backgrounds are the ones who usually deliver best during hackathons. 
 
 #### Is there a participation fee?
 No, the hackathon is FREE.
+
+#### Who owns the IP of the hacks?
+The IP of the hacks remains with the teams who created the code / products.
 
 
 ## Contact
