@@ -113,7 +113,7 @@ The Sound of AI is a community based on respect, inclusivity, and kindness. Part
 #### Should I have a team to participate?
 You're free to come with an already-formed team. However, it is possible to participate without a team. 
 
-We set out a process to help you find a team before the start of the hackathon. The step-by-step process is outlined in the [Eventbrite Online Event Page](https://www.eventbrite.com/x/365806857157/) - you can access this page only if you've registered for the hackathon. We'll also have a Team Building session at the beginning of the event for those who couldn't join a team before the start of the event. However, we highly encourage you to find a team before the hackathon starts using the workflow we set out to optimise your time during the event.  
+We set out a process to help you find a team before the start of the hackathon. The step-by-step process is outlined in the [Eventbrite Online Event Page](https://www.eventbrite.com/x/365806857157/) - you can access this page only if you've registered for the hackathon. We'll also have a Team Building session at the beginning of the event for those who couldn't join a team before the start of the event. However, we highly encourage you to join a team before the hackathon starts by using the "offline" team building process we implemented.
 
 #### Who should participate?
 Hackers, programmers, technologitsts, AI audio / music engineers, researchers, product managers are obviously the main culprits. However, people with non-technical skills are also invited to participate. Well-rounded hacker teams with members from different backgrounds are the ones who usually deliver best during hackathons. 
