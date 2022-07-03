@@ -106,14 +106,14 @@ The Hackhathon is organised by:
 During the hackathon, all teams are asked to submit information about the team name, team members, and what they're working on. The deadling for submission is Saturday 9th of July at 9.00pm CEST. The information should be submitted in a Google Spreadheet. The organisers will provide more info during the hackathon.
 
 ## Code of conduct
-The Sound of AI is a community based on respect, inclusivity, and kindness. Participants are asked to follow [The Sound of AI Netiquette]([url](https://valeriovelardo.com/community-netiquette/)). Participants who violate The Sound of AI Netiquette will be banned from the event. 
+The Sound of AI is a community based on respect, inclusivity, and kindness. Participants are asked to follow [The Sound of AI Netiquette](https://valeriovelardo.com/community-netiquette/). Participants who violate The Sound of AI Netiquette will be banned from the event. 
 
 ## FAQs
 
 #### Should I have a team to participate?
 You're free to come with an already-formed team. However, it is possible to participate without a team. 
 
-We set out a process to help you find a team before the start of the hackathon. The step-by-step process is outlined in the [Eventbrite Online Event Page]([url](https://www.eventbrite.com/x/365806857157/)) - you can access this page only if you've registered for the hackathon. We'll also have a Team Building session at the beginning of the event for those who couldn't join a team before the start of the event. However, we highly encourage you to find a team before the hackathon starts using the workflow we set out to optimise your time during the event.  
+We set out a process to help you find a team before the start of the hackathon. The step-by-step process is outlined in the [Eventbrite Online Event Page](https://www.eventbrite.com/x/365806857157/) - you can access this page only if you've registered for the hackathon. We'll also have a Team Building session at the beginning of the event for those who couldn't join a team before the start of the event. However, we highly encourage you to find a team before the hackathon starts using the workflow we set out to optimise your time during the event.  
 
 #### Who should participate?
 Hackers, programmers, technologitsts, AI audio / music engineers, researchers, product managers are obviously the main culprits. However, people with non-technical skills are also invited to participate. Well-rounded hacker teams with members from different backgrounds are the ones who usually deliver best during hackathons. 
