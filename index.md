@@ -69,6 +69,7 @@ Our main communication platform will be The Sound of AI Slack. [You can sign up 
 
 - _#hack-organisation_ - Channel used for the organisers to provide general info to participants  
 - _#hack-participants_ - Channel used by participants to communicate among themselves (e.g., propose ideas, build teams)
+- _#hack-questions_ - Channel used by participants to ask questions to organisers before and during the event
 - Slack direct messages can be used to start conversations among participants / team members
 
 Participants are encouraged to use the video-conferencing tools they prefer to organise among themselves.
