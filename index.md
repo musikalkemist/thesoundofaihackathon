@@ -121,7 +121,7 @@ Hackers, programmers, technologitsts, AI audio / music engineers, researchers, p
 #### Is there a participation fee?
 No, the hackathon is FREE.
 
-#### Who owns the IP of the hacks?
+#### Who owns the Intellectual Property (IP) of the hacks?
 The IP of the hacks remains with the teams who created the code / products.
 
 
