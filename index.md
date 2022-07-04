@@ -60,7 +60,7 @@ A big thank-you goes to our sponsors, which have provided prizes for the hackath
 ## APIs
 During the hackathon, some of the sponsors will give free access to their services. Make the most out of it in your hack!
 
-- [Cyanite API](https://cyanite.ai/#services) - Music tagging, music recommendation, music similarity, music emotion recognition. 
+- [Cyanite API](https://cyanite.ai/#services) - Music tagging, music recommendation, music similarity, music emotion recognition, and more. Check Cyanite API's [documentation](https://api-docs.cyanite.ai/) to get started. 
 - [ACRCloud API](https://www.acrcloud.com/) - Recognise music (fingerprinting), braodcast monitoring for music, detect live & timeshift TV channels, and more. Check these [tutorials](https://docs.acrcloud.com/tutorials) to get started.  
 
 
