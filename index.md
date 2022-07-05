@@ -42,9 +42,10 @@ During the hackathon, there will be presentations by two keynote speakers:
 
 - The winner team will receive 3x NVIDIA RTX 3070 GPUs to share among its members. This prize is sponsored by Utopia Music.
 - The team with the most innovative solution will receive the equivalent of ca. EUR 5000 of premium access to Cyanite's API services (music emotion recognition and music genre recognition). This prize is sponsored by Cyanite.
-- The team with the most marketable solution will receive premium access to ACRCloud API services (music recognition). This prize is sponsored by ACRCloud.  
+- The team with the most marketable solution will receive premium access to ACRCloud API services (music recognition). This prize is sponsored by ACRCloud. 
 - The team with the best presentation will win a selection of books and courses about AI / programming / audio signal processing. This prize is sponsored by Cyanite. 
 - The team which will make the most interesting use of AI in its solution will win a $500 gift card on the Arduino website. This prize is sponsored by Boomy.
+- Honouraoble mention: Premium Splice sounds subscriptions.
 - All participants will get free Boomy Pro accounts. This means unlimited music creation with AI + unlimited releases.
 
 
@@ -55,6 +56,7 @@ A big thank-you goes to our sponsors, which have provided prizes for the hackath
 - [Cyanite](https://cyanite.ai/) - Music search and tagging engine
 - [ACRCloud](https://www.acrcloud.com/) - Automatic content recognition for doers  
 - [Boomy](https://boomy.com/) - Make instant music with AI
+- [Splice](https://splice.com/) - Royalty-free sounds and rent-to-own plugins
 
 
 ## APIs
