@@ -101,6 +101,7 @@ The Hackhathon is organised by:
 - [Valerio Velardo](https://valeriovelardo.com/) 
 - [Fernando Garcia](https://github.com/fergarciadlc)
 - [Simona Spinelli](https://www.linkedin.com/in/simonaspinelli/)
+- [Sudharshan Ramesh](https://www.linkedin.com/in/sudharshanbr/)
 
 
 ## Submit team information
