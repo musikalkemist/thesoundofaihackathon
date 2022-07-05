@@ -33,7 +33,7 @@ The hackathon main theme is audio / music tech, with a particular focus on "inte
 - _Sunday 10th 8.30-9.00pm_ - Awards ceremony
 
 ## Keynote speakers
-During the hackathone, there will be presentations by two keynote speakers:
+During the hackathon, there will be presentations by two keynote speakers:
 - [CJ Carr](https://dadabots.com/) - Founder of dadabots. CJ will present "Neural Synthesis & Generative Music"
 - [Keunwoo Choi](https://keunwoochoi.github.io/) - AI Scientist/Director @ Gaudio Lab. Keunwoo's talk is titled "AI for Music Analysis"
 
@@ -104,7 +104,7 @@ The Hackhathon is organised by:
 
 
 ## Submit team information
-During the hackathon, all teams are asked to submit information about the team name, team members, and what they're working on. The deadling for submission is Saturday 9th of July at 9.00pm CEST. The information should be submitted in a Google Spreadheet. The organisers will provide more info during the hackathon.
+During the hackathon, all teams are asked to submit information about the team name, team members, and what they're working on. The deadline for submission is Saturday 9th of July at 9.00pm CEST. The information should be submitted in a Google Spreadsheet. The organisers will provide more info during the hackathon.
 
 ## Code of conduct
 The Sound of AI is a community based on respect, inclusivity, and kindness. Participants are asked to follow [The Sound of AI Netiquette](https://valeriovelardo.com/community-netiquette/). Participants who violate The Sound of AI Netiquette will be banned from the event. 
