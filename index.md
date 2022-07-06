@@ -47,6 +47,7 @@ During the hackathon, there will be presentations by two keynote speakers:
 - The team which will make the most interesting use of AI in its solution will win a $500 gift card on the Arduino website. This prize is sponsored by Boomy.
 - Honouraoble mention: Premium Splice sounds subscriptions.
 - All participants will get free Boomy Pro accounts. This means unlimited music creation with AI + unlimited releases.
+- All participants will get free Beatoven Pro accounts.
 
 
 ## Sponsors 
@@ -57,6 +58,7 @@ A big thank-you goes to our sponsors, which have provided prizes for the hackath
 - [ACRCloud](https://www.acrcloud.com/) - Automatic content recognition for doers  
 - [Boomy](https://boomy.com/) - Make instant music with AI
 - [Splice](https://splice.com/) - Royalty-free sounds and rent-to-own plugins
+- [Beatoven](https://beatoven.ai/) - AI music generation to compose unique mood-based music
 
 
 ## APIs
